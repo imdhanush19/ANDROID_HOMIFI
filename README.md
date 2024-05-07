@@ -68,7 +68,7 @@ Simultaneously, the app sends an email notification to the user's registered ema
 The email notification contains essential information such as the service provider's details, booked date and time, and any additional instructions or terms.
 
 
-Use the below youtube video link to make integrate your flutter project with Firebase.
+Use this youtube video link to make integrate your flutter project with Firebase.
 https://youtu.be/QylDiWmhVH8?si=YB2TDB6-Ibzyp8yT
 
 OUTPUT I MEAN THE IMAGES OF THE DEVELOPMENT APP UI IS GIVEN IN OUTPUTIMAGE FOLDER REFER IT
