@@ -2,6 +2,20 @@
 
 A new Flutter project.
 
+About
+"Homifi" emerges as a comprehensive solution to address this need, offering a wide 
+range of services ranging from household chores to specialized tasks like driving and 
+cooking. Unlike traditional models, Homifi empowers independent service providers by 
+providing them with a dynamic platform to showcase their skills and connect directly 
+with customers.
+
+Features
+User authentication (Login/Registration)
+Service category exploration
+Service provider listings
+Booking process with confirmation by email
+Profile management
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
