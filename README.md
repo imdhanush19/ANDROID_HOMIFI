@@ -22,7 +22,7 @@ Sign In: Allows existing users to access the app's features by logging in with t
 Automatic Navigation: Upon successful login, the app remembers user credentials, ensuring subsequent launches navigate users directly to the homepage for seamless access to content and functionality.
 Forgot Password: Enables users to recover login Email-ID if forgotten, ensuring uninterrupted access to their accounts. 
 Register Now: Directs new users to a signup page, facilitating account creation and entry into the app ecosystem.
-![image](https://github.com/imdhanush19/ANDROID_HOMIFI/assets/142441516/ad0a86f8-3849-4b9d-9f66-e3725932feff)
+
 
 REGISTER PAGE
 Clicking "Register Now" in the login screen directs users to the SignUp Page.
@@ -31,7 +31,7 @@ Upon accessing the Register Page, users are prompted to provide details which ar
 User registration details are securely stored in Firebase Database, ensuring efficient organization and management.
 This data forms the foundation for personalized experiences, user account management, and seamless app interactions.
 Upon completing registration, users can seamlessly transition to the login process to access the app's features.
-![image](https://github.com/imdhanush19/ANDROID_HOMIFI/assets/142441516/68e6a31c-9d3f-4e85-9712-101468588248)
+
 
 HOMEPAGE
 Grid View of Services and Service Providers testing
@@ -41,12 +41,12 @@ The app's homepage serves as the central hub for accessing essential services, f
 Tapping on any service category tile directs users to a list of service providers offering that particular service.
 
 The provider listings include essential details such as their ratings and contact information (mobile number), enabling users to make informed decisions.
-![image](https://github.com/imdhanush19/ANDROID_HOMIFI/assets/142441516/79124995-6cb1-4ff1-b739-b7bf88e4ebdc)
+
 
 Profile Access:
 Located in the top right corner of the homepage is the profile icon, providing users with access to their personal profile information.
 Upon tapping the profile icon, users can view details of their logged-in account, enhancing user engagement and personalization.
-![image](https://github.com/imdhanush19/ANDROID_HOMIFI/assets/142441516/16e824d7-dbc3-4bbc-858a-f9e09a49b334)
+
 
 
 BOOKING PAGE
@@ -56,7 +56,7 @@ The booking confirmation page prompts users to select a preferred date and time 
 Users are presented with intuitive date and time selection interfaces, allowing them to choose their desired appointment schedule.
 The "Confirm Booking" button remains disabled until users select a valid date and time for their appointment.
 Only after selecting both date and time, the button becomes enabled, allowing users to proceed with confirming their booking.
-![image](https://github.com/imdhanush19/ANDROID_HOMIFI/assets/142441516/2db0249e-92c4-41bc-8b81-13fa2665130d)
+
 
 
 BOOKING CONFIRMATION PAGE
@@ -66,7 +66,7 @@ This page serves as a visual confirmation of the successful booking, reassuring 
 Email Notification:
 Simultaneously, the app sends an email notification to the user's registered email address, confirming the booking details.
 The email notification contains essential information such as the service provider's details, booked date and time, and any additional instructions or terms.
-![image](https://github.com/imdhanush19/ANDROID_HOMIFI/assets/142441516/80a11868-ee8e-49d2-a1fe-098d0ff953d4)
+
 
 Use the below youtube video link to make integrate your flutter project with Firebase.
 https://youtu.be/QylDiWmhVH8?si=YB2TDB6-Ibzyp8yT
